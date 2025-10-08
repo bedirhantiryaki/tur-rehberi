@@ -6,7 +6,7 @@ export const categories: Category[] = [
   { id: '2', name: 'Tarihi', icon: 'business-outline', color: '#FF9800' },
   { id: '3', name: 'Doğa', icon: 'leaf-outline', color: '#4CAF50' },
   { id: '4', name: 'Kültür', icon: 'color-palette-outline', color: '#9C27B0' },
-  { id: '5', name: 'Macera', icon: 'bicycle-outline', color: '#F44336' },
+  { id: '5', name: 'Macdsdera', icon: 'bicycle-outline', color: '#F44336' },
   { id: '6', name: 'Gastronomi', icon: 'restaurant-outline', color: '#FF5722' },
 ];
 
