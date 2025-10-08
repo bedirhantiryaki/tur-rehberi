@@ -175,13 +175,6 @@ Katkılarınızı bekliyoruz! Lütfen pull request göndermeden önce:
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
-## 👨‍💻 Geliştirici
-
-**Bedir**
-
-- LinkedIn: [Profiliniz](https://linkedin.com/in/profiliniz)
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-
 ## 🙏 Teşekkürler
 
 - Expo ekibine harika bir platform için
